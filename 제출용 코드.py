@@ -161,6 +161,6 @@ if winner=='':
         winner = '%s' % p2
         print('The winner is %s!' % winner)
     else:
-        print('WOW! Draw!')
+        print('WOW! Draw!!!!!!')
 else:
     print('The winner is %s!'%winner)
