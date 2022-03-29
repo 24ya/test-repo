@@ -1,3 +1,4 @@
+#제출용 코드
 #5-3
 import random
 
